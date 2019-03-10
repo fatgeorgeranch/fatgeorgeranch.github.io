@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(250, 128, 114);
+}
+
+h1{
+    border: 6px;
+    border-radius: 15px 50px 30px 5px; 
+    text-align: center;
+    color: rgb(9, 172, 155);
+}
+
+img{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 5px rgb(7, 102, 86) dotted;
+
+
+}
+
+#computer{
+    text-align: center;
+}
